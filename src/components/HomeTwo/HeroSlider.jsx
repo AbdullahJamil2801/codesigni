@@ -10,7 +10,7 @@ const HeroSlider = () => {
     },
     {
       id: 2,
-      title: <>Introduce Our Creative <br /> Digital Agency.</>
+      title: <>Testing the Changes <br /> Digital Agency.</>
     },
     {
       id: 3,
