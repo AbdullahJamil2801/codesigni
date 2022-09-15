@@ -71,15 +71,15 @@ const HeroSliderFour = () => {
           </Swiper>
 
         </div>
-        <div className="tpbs__shape tpbs__shape-1">
-          <img src="assets/img/shape/shape-1.png" alt="shape-1" />
+        {/* <div className="tpbs__shape tpbs__shape-1">
+          <img src="assets/img/shape/shape-1.pn" alt="shape-1" />
         </div>
         <div className="tpbs__shape tpbs__shape-2">
           <img src="assets/img/shape/shape-2.png" alt="shape-1" />
         </div>
         <div className="tpbs__shape tpbs__shape-3">
           <img src="assets/img/shape/shape-3.png" alt="shape-1" />
-        </div>
+        </div> */}
       </div>
     </>
   );
