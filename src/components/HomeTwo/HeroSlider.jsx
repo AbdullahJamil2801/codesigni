@@ -23,6 +23,12 @@ const HeroSliderFour = () => {
       title: 'WE PROVIDE BEST SERVICE WITH EXCLUSIVE SUPPORT',
       subtitle: <>Business <span>Strong</span></>
     },
+    {
+      id: 4,
+      bg: 'assets/img/slider/slider-2-1.jpg',
+      title: 'WE PROVIDE BEST SERVICE WITH EXCLUSIVE SUPPORT',
+      subtitle: <>Testing <span>Strong</span></>
+    },
   ]
   return (
     <>
