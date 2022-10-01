@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { Pagination, EffectFade } from "swiper";
+import { Pagination, EffectFade, Autoplay } from "swiper";
 import { Swiper, SwiperSlide } from "swiper/react";
 
 
