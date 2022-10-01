@@ -7,9 +7,9 @@ const HeroSliderFour = () => {
   const sliderData = [
     {
       id: 1,
-      bg: 'assets/img/slider/slider-2-1.webp',
-      title: 'WE PROVIDE BEST SERVICE WITH EXCLUSIVE FEATURES',
-      subtitle: <>Business <span>Growth</span></>
+      bg: 'assets/img/slider/Coding-website-development-agency-in-Pakistan-hero.webp',
+      title: 'WE PROVIDE BEST SERVICE WITH EXCELLENT CODING',
+      subtitle: <>Development <span>Services</span></>
     },
     {
       id: 2,
