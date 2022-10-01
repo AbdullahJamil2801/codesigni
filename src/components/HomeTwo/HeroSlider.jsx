@@ -13,9 +13,9 @@ const HeroSliderFour = () => {
     },
     {
       id: 2,
-      bg: 'assets/img/slider/slider-2-1.webp',
+      bg: 'assets/img/slider/design-agency-in-lahore-Pakistan-hero.webp',
       title: 'WE PROVIDE BEST SERVICE WITH EXCLUSIVE METARIALS',
-      subtitle: <>Business <span>Health</span></>
+      subtitle: <>Graphic <span>Design</span></>
     },
     {
       id: 3,
