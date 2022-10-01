@@ -28,13 +28,7 @@ const HeroSliderFour = () => {
       bg: 'assets/img/slider/slider-2-1.webp',
       title: 'WE PROVIDE BEST SERVICE WITH EXCLUSIVE SUPPORT',
       subtitle: <>Testing <span>Strong</span></>
-    },
-    {
-      id: 5,
-      bg: 'assets/img/slider/slider-2-1.webp',
-      title: 'WE PROVIDE BEST SERVICE WITH EXCLUSIVE SUPPORT',
-      subtitle: <>Testing <span>Strong</span></>
-    },
+    }
   ]
   return (
     <>
@@ -42,12 +36,13 @@ const HeroSliderFour = () => {
         <div className="tpbs-slider tpbs-slider-active">
 
           <Swiper
-            modules={[Pagination, EffectFade]}
+            modules={[Pagination, EffectFade, Autoplay]}
             spaceBetween={25}
             slidesPerView={1}
             effect="fade"
+            loop={true}
             pagination={{ clickable: true }}
-            autoplay={{ delay: 6000 }}
+            autoplay={{ delay: 4000 }}
           >
             {sliderData.slice(0, 6).map(item => {
               return (
