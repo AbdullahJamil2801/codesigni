@@ -18,23 +18,22 @@ const ServicesTwo = () => {
             {
               servicesData.slice(0, 8).map(item => {
                 return (
-                  <div key={item.id} className="col-xl-3 col-lg-4 col-md-6 col-sm-6">
-                    <div className="tpservices tpservices-3 text-center mb-30">
+                  <div key={item.id} className="col-xl-3 col-lg-3 col-md-6">
+                    <div className="tpservices tp-mds-services tpservices-border mb-30">
                       <div className="tpservices__icon mb-30">
-                        <i className={`${item.icon}`}></i>
+                        <i className={item.icon}></i>
                       </div>
                       <div className="tpservices__content">
                         <h4 className="tpservices__title mb-25">
-                          <Link href={`/portfolio-details/${item.id}`}>
+                          <Link href={`/service-details/${item.id}`}>
                             <a>{item.title}</a>
                           </Link>
                         </h4>
+                        <p>Methods and techniques to taking raw data - mining for insights and years of experience will.</p>
                         <div className="tpservices__btn mt-30">
-                          <Link href={`/portfolio-details/${item.id}`}>
+                          <Link href={`/service-details/${item.id}`}>
                             <a>
-                              <span></span>
-                              <span></span>
-                              <span></span>
+                              <i className="flaticon-right-arrow-1"></i>
                             </a>
                           </Link>
                         </div>
