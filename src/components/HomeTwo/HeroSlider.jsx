@@ -8,7 +8,7 @@ const HeroSliderFour = () => {
     {
       id: 1,
       bg: 'assets/img/slider/Coding-website-development-agency-in-Pakistan-hero.webp',
-      title: 'WE PROVIDE BEST SERVICE WITH EXCELLENT CODING',
+      title: 'WE PROVIDE BEST DEVELOPMENT WITH EXCELLENT CODING',
       subtitle: <>Development <span>Services</span></>
     },
     {
