@@ -7,25 +7,31 @@ const HeroSliderFour = () => {
   const sliderData = [
     {
       id: 1,
-      bg: 'assets/img/slider/slider-2-1.jpg',
+      bg: 'assets/img/slider/slider-2-1.webp',
       title: 'WE PROVIDE BEST SERVICE WITH EXCLUSIVE FEATURES',
       subtitle: <>Business <span>Growth</span></>
     },
     {
       id: 2,
-      bg: 'assets/img/slider/slider-2-1.jpg',
+      bg: 'assets/img/slider/slider-2-1.webp',
       title: 'WE PROVIDE BEST SERVICE WITH EXCLUSIVE METARIALS',
       subtitle: <>Business <span>Health</span></>
     },
     {
       id: 3,
-      bg: 'assets/img/slider/slider-2-1.jpg',
+      bg: 'assets/img/slider/slider-2-1.webp',
       title: 'WE PROVIDE BEST SERVICE WITH EXCLUSIVE SUPPORT',
       subtitle: <>Business <span>Strong</span></>
     },
     {
       id: 4,
-      bg: 'assets/img/slider/slider-2-1.jpg',
+      bg: 'assets/img/slider/slider-2-1.webp',
+      title: 'WE PROVIDE BEST SERVICE WITH EXCLUSIVE SUPPORT',
+      subtitle: <>Testing <span>Strong</span></>
+    },
+    {
+      id: 5,
+      bg: 'assets/img/slider/slider-2-1.webp',
       title: 'WE PROVIDE BEST SERVICE WITH EXCLUSIVE SUPPORT',
       subtitle: <>Testing <span>Strong</span></>
     },
