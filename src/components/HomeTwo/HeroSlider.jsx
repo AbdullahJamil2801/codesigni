@@ -14,20 +14,20 @@ const HeroSliderFour = () => {
     {
       id: 2,
       bg: 'assets/img/slider/design-agency-in-lahore-Pakistan-hero.webp',
-      title: 'WE PROVIDE BEST SERVICE WITH EXCLUSIVE METARIALS',
+      title: 'TRANSFORM YOUR IDEAS INTO STUNNING DESIGNS WITH OUR EXPERT DESIGN SERVICES',
       subtitle: <>Graphic <span>Design</span></>
     },
     {
       id: 3,
       bg: 'assets/img/slider/slider-2-1.webp',
-      title: 'WE PROVIDE BEST SERVICE WITH EXCLUSIVE SUPPORT',
-      subtitle: <>Business <span>Strong</span></>
+      title: 'BOOST YOUR ONLINE PRESENCE WITH OUR DIGITAL MARKETING CONSULTING SERVICES',
+      subtitle: <>Marketing <span>Consulting</span></>
     },
     {
       id: 4,
       bg: 'assets/img/slider/slider-2-1.webp',
-      title: 'WE PROVIDE BEST SERVICE WITH EXCLUSIVE SUPPORT',
-      subtitle: <>Testing <span>Strong</span></>
+      title: 'MAXIMIZE YOUR AMAZON SALES WITH OUR AMAZON SPECIALIST SERVICES',
+      subtitle: <>Amazon <span>Specialist</span></>
     }
   ]
   return (
@@ -57,7 +57,7 @@ const HeroSliderFour = () => {
                             <h3 className="tpbs-slider__item-title">{item.subtitle}</h3>
                             <div className="tpbs-btn mt-40">
                               <Link href="/services">
-                                <a className="tp-solid-btn">Free Consultation</a>
+                                <a className="tp-solid-btn">Get In Touch</a>
                               </Link>
                             </div>
                           </div>

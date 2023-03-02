@@ -9,8 +9,8 @@ const ServicesTwo = () => {
           <div className="row">
             <div className="col-xl-12">
               <div className="tp-section-title text-center">
-                <span className="tp-sub-title-2 mb-15">What we do</span>
-                <h2 className="tp-title">My Service  Area</h2>
+                <span className="tp-sub-title-2 mb-15">What we do the best !</span>
+                <h2 className="tp-title">Our Service</h2>
               </div>
             </div>
           </div>
@@ -28,8 +28,8 @@ const ServicesTwo = () => {
                           <Link href={`/service-details/${item.id}`}>
                             <a>{item.title}</a>
                           </Link>
-                        </h4>
-                        <p>Methods and techniques to taking raw data - mining for insights and years of experience will.</p>
+                        </h4>                                             
+                        <p>{item.description}</p>
                         <div className="tpservices__btn mt-30">
                           <Link href={`/service-details/${item.id}`}>
                             <a>

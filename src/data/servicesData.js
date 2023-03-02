@@ -3,31 +3,38 @@ const servicesData = [
         id:1,
         icon:"flaticon-coding",
         title:'Grapic Design',
+        description:'We bring your brand to life with visually stunning custom designs that communicate your message effectively.',
       },
       {
         id:2,
         icon:"flaticon-tools",
         title:'App Design',
+        description:'Our app designs prioritize creativity and user experience, delivering solutions that meet your business goals.',
+        
       },
       {
         id:3,
         icon:"flaticon-curve",
         title:'Website Design',
+        description:'We design websites for usability and aesthetic appeal, engaging and converting visitors into customers.',
       },
       {
         id:4,
         icon:"flaticon-promote",
         title:'Branding Design',
+        description:'Our branding captures your essence, conveying a memorable message that resonates with your audience.',
       },
       {
         id:5,
-        icon:"flaticon-interaction",
-        title:'Data Analysis',
+        icon:"flaticon-seo",
+        title:'SEO',
+        description:'Improve website visibility and ranking with our SEO services, driving organic traffic to grow your business.',
       },
       {
         id:6,
-        icon:"flaticon-dashboard",
-        title:'Digital Service',
+        icon:"flaticon-dashboard",    
+        title:'Google Ads- PPC',
+        description:'Drive traffic and conversions with our Google Ads management services, reaching your target audience effectively.',
       },
       {
         id:7,
