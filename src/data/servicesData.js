@@ -39,7 +39,7 @@ const servicesData = [
       {
         id:7,
         icon:"flaticon-statistics",
-        title:'Product Design',
+        title:'Product Designa',
       },
       {
         id:8,
