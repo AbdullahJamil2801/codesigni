@@ -23,14 +23,14 @@ const Header = ({ HeaderTwo, headerEight = false,homeNine}) => {
                   <div className="logo-dark">
                     <Link href="/">
                      <a>
-                     { homeNine ? <img src="/assets/img/logo/logo-white.png" alt="logo" />
-                      : <img src="/assets/img/logo/logo.png" alt="logo" />}
+                     { homeNine ? <img src="/assets/img/logo/dark-logo-codesigni.png" alt="logo" />
+                      : <img src="/assets/img/logo/logo-codesigni.png" alt="logo" />}
                      </a>
                     </Link>
                   </div>
                   <div className="logo-white">
                      <Link href="/">
-                      <a><img src="/assets/img/logo/logo-white.png" alt="logo" /></a>
+                      <a><img src="/assets/img/logo/dark-logo-codesigni.png" alt="logo" /></a>
                     </Link>
                   </div>
                 </div>
