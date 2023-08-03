@@ -26,9 +26,9 @@ const ServiceDetails = () => {
 
   return (
     <>
-      <SEO pageTitle="Profile Details" />
+      <SEO pageTitle={serviceItem.title} />
       <Header />
-      <Breadcrumb title="SERVICE DETAILS" subtitle="Service Details"/>
+      <Breadcrumb title={serviceItem.title} subtitle="Service Details"/>
 
       <div className="services-details-area pt-140 pb-105">
         <div className="container">

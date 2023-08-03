@@ -1,9 +1,9 @@
 const servicesData = [
     {
         id:1,
-        icon:"flaticon-coding",
-        title:'Grapic Design',
-        description:'We bring your brand to life with visually stunning custom designs that communicate your message effectively.',
+        icon:"flaticon-curve",
+        title:'Digital Marketing',
+        description:'Our app designs prioritize creativity and user experience, delivering solutions that meet your business goals.',
       },
       {
         id:2,
@@ -43,8 +43,9 @@ const servicesData = [
       },
       {
         id:8,
-        icon:"flaticon-curve",
-        title:'Digital Marketing',
+        icon:"flaticon-coding",
+        title:'Graphic Design',
+        description:'We bring your brand to life with visually stunning custom designs that communicate your message effectively.',
       },
       {
         id:9,
