@@ -2,7 +2,7 @@ const servicesData = [
     {
         id:1,
         icon:"flaticon-curve",
-        title:'Digital Marketing by Areeba',
+        title:'Digital Marketing',
         description:'Our app designs prioritize creativity and user experience, delivering solutions that meet your business goals.',
       },
       {
