@@ -32,7 +32,7 @@ const Header = ({ HeaderTwo, headerEight = false,homeNine}) => {
                      <Link href="/">
                       <a><img src="/assets/img/logo/logo-white.png" alt="logo" /></a>
                     </Link>
-                  </div>Y
+                  </div>
                 </div>
                 <div className="col-xxl-6 col-xl-7 col-lg-7 d-none d-lg-block">
                   <div className="tpmenu">
