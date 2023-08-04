@@ -2,44 +2,44 @@ const servicesData = [
     {
         id:1,
         icon:"flaticon-curve",
-        title:'Digital Marketing',
+        title:'Performance Marketing',
         description:'Our app designs prioritize creativity and user experience, delivering solutions that meet your business goals.',
       },
       {
         id:2,
-        icon:"flaticon-tools",
-        title:'App Design',
+        icon:"flaticon-dashboard",    
+        title:'Search Engine Marketing',
         description:'Our app designs prioritize creativity and user experience, delivering solutions that meet your business goals.',
         
       },
       {
         id:3,
-        icon:"flaticon-curve",
-        title:'Website Design',
-        description:'We design websites for usability and aesthetic appeal, engaging and converting visitors into customers.',
-      },
-      {
-        id:4,
-        icon:"flaticon-promote",
-        title:'Branding Design',
+        icon:"flaticon-seo",
+        title:'Search Engine Optimization',        
         description:'Our branding captures your essence, conveying a memorable message that resonates with your audience.',
       },
       {
+        id:4,
+        icon:"flaticon-curve",
+        title:'Website Design Service',
+        description:'We design websites for usability and aesthetic appeal, engaging and converting visitors into customers.'
+      },
+      {
         id:5,
-        icon:"flaticon-seo",
-        title:'SEO',
+        icon:"flaticon-promote",
+        title:'Branding Design',
         description:'Improve website visibility and ranking with our SEO services, driving organic traffic to grow your business.',
       },
       {
         id:6,
-        icon:"flaticon-dashboard",    
-        title:'Google Ads- PPC',
+        icon:"flaticon-tools",
+        title:'App Design',
         description:'Drive traffic and conversions with our Google Ads management services, reaching your target audience effectively.',
       },
       {
         id:7,
         icon:"flaticon-statistics",
-        title:'Product Designa',
+        title:'Product Design',
       },
       {
         id:8,
