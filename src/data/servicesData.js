@@ -1,51 +1,52 @@
 const servicesData = [
     {
         id:1,
-        icon:"flaticon-curve",
-        title:'Performance Marketing',
-        description:'Our app designs prioritize creativity and user experience, delivering solutions that meet your business goals.',
+        icon:"flaticon-promote",
+        title:'Social Media Marketing',
+        description:'Elevate brand, drive leads, and skyrocket e-commerce sales with our social media marketing services.',
       },
       {
         id:2,
         icon:"flaticon-dashboard",    
         title:'Search Engine Marketing',
-        description:'Our app designs prioritize creativity and user experience, delivering solutions that meet your business goals.',
+        description:'Achieve online prominence with our innovative search engine marketing strategies that ensure your brand visibility and growth.',
         
       },
       {
         id:3,
-        icon:"flaticon-seo",
-        title:'Search Engine Optimization',        
-        description:'Our branding captures your essence, conveying a memorable message that resonates with your audience.',
+        icon:"flaticon-select",
+        title:'E-commerce Marketing',
+        description:'Transform your online store into a thriving business with our tailored e-commerce marketing approaches, driving conversions and customer loyalty.',
       },
       {
         id:4,
-        icon:"flaticon-curve",
-        title:'Website Design Service',
-        description:'We design websites for usability and aesthetic appeal, engaging and converting visitors into customers.'
+        icon:"flaticon-seo",
+        title:'Search Engine Optimization',        
+        description:'Unlock the potential of your brands online presence through our comprehensive SEO techniques, ensuring higher rankings and organic traffic.',        
       },
       {
         id:5,
-        icon:"flaticon-promote",
-        title:'Branding Design',
-        description:'Improve website visibility and ranking with our SEO services, driving organic traffic to grow your business.',
+        icon:"flaticon-customers",
+        title:'Lead Generation',
+        description:'Fuel your business expansion by tapping into our lead generation expertise, optimizing your outreach to attract and convert potential customers.',
       },
       {
         id:6,
-        icon:"flaticon-tools",
-        title:'App Design',
-        description:'Drive traffic and conversions with our Google Ads management services, reaching your target audience effectively.',
+        icon:"flaticon-coding",
+        title:'Website Development',
+        description:'From concept to execution, we craft websites that captivate and convert, delivering seamless user experiences that amplify your online presence.',
       },
       {
         id:7,
-        icon:"flaticon-statistics",
-        title:'Product Design',
+        icon:"flaticon-reading",
+        title:'Content Writing',
+        description: 'Tell your brand story with our expertly crafted content that resonates with your audience, driving engagement, and establishing authority.'
       },
       {
         id:8,
-        icon:"flaticon-coding",
+        icon:"flaticon-curve",
         title:'Graphic Design',
-        description:'We bring your brand to life with visually stunning custom designs that communicate your message effectively.',
+        description:'Turn your vision into visual reality with our captivating graphic designs that encapsulate your brand essence, leaving a lasting impact.',
       },
       {
         id:9,

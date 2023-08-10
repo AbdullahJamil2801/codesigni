@@ -7,27 +7,39 @@ const HeroSliderFour = () => {
   const sliderData = [
     {
       id: 1,
-      bg: 'assets/img/slider/Coding-website-development-agency-in-Pakistan-hero.webp',
-      title: 'WE PROVIDE BEST DEVELOPMENT WITH EXCELLENT CODING',
-      subtitle: <>Development <span>Services</span></>
+      bg: 'assets/img/slider/design-agency-in-lahore-Pakistan-hero.webp',
+      title: 'IGNITE YOUR BRAND WITH POWERFUL SOCIAL MEDIA MARKETING !',
+      subtitle: <>Social Media <span>Marketing</span></>
     },
     {
       id: 2,
-      bg: 'assets/img/slider/design-agency-in-lahore-Pakistan-hero.webp',
-      title: 'TRANSFORM YOUR IDEAS INTO STUNNING DESIGNS WITH OUR EXPERT DESIGN SERVICES',
-      subtitle: <>Graphic <span>Design</span></>
+      bg: 'assets/img/slider/Coding-website-development-agency-in-Pakistan-hero.webp',
+      title: '"AMPLIFY LEADS & ECOMMERCE SALES WITH GOOGLE ADS !',
+      subtitle: <>Google <span>Ads</span></>
     },
     {
       id: 3,
       bg: 'assets/img/slider/slider-2-1.webp',
-      title: 'BOOST YOUR ONLINE PRESENCE WITH OUR DIGITAL MARKETING CONSULTING SERVICES',
-      subtitle: <>Marketing <span>Consulting</span></>
+      title: 'IGNITE SALES GROWTH THROUGH E-COMMERCE MARKETING !',
+      subtitle: <>Ecommerce <span>Marketing</span></>
     },
     {
       id: 4,
       bg: 'assets/img/slider/slider-2-1.webp',
-      title: 'MAXIMIZE YOUR AMAZON SALES WITH OUR AMAZON SPECIALIST SERVICES',
-      subtitle: <>Amazon <span>Specialist</span></>
+      title: 'AMPLIFY YOUR ONLINE PRESENCE THROUGH SEO STRATEGY !',
+      subtitle: <>SEO</>
+    },
+    {
+      id: 5,
+      bg: 'assets/img/slider/slider-2-1.webp',
+      title: 'AMPLIFY YOUR ONLINE PRESENCE THROUGH SEO STRATEGY !',
+      subtitle: <>SEO</>
+    },
+    {
+      id: 6,
+      bg: 'assets/img/slider/slider-2-1.webp',
+      title: 'AMPLIFY YOUR ONLINE PRESENCE THROUGH SEO STRATEGY !',
+      subtitle: <>SEO</>
     }
   ]
   return (

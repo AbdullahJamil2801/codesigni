@@ -16,7 +16,7 @@ const ServicesTwo = () => {
           </div>
           <div className="row mt-60">
             {
-              servicesData.slice(0, 4).map(item => {
+              servicesData.slice(0, 8).map(item => {
                 return (
                   <div key={item.id} className="col-xl-3 col-lg-3 col-md-6">
                     <Link href={`/service-details/${item.id}`}>
