@@ -7,28 +7,53 @@ const HeroSliderFour = () => {
   const sliderData = [
     {
       id: 1,
-      bg: 'assets/img/slider/Coding-website-development-agency-in-Pakistan-hero.webp',
-      title: 'WE PROVIDE BEST DEVELOPMENT WITH EXCELLENT CODING',
-      subtitle: <>Development <span>Services</span></>
+      bg: 'assets/img/slider/slider-2-1.webp',
+      title: 'SCALING BUSINESSES THROUGH CONSISTENT HIGH ROAS',
+      subtitle: <>Ecommerce <span>Marketing</span></>
     },
     {
       id: 2,
-      bg: 'assets/img/slider/design-agency-in-lahore-Pakistan-hero.webp',
-      title: 'TRANSFORM YOUR IDEAS INTO STUNNING DESIGNS WITH OUR EXPERT DESIGN SERVICES',
-      subtitle: <>Graphic <span>Design</span></>
+      bg: 'assets/img/slider/Coding-website-development-agency-in-Pakistan-hero.webp',
+      title: 'ELEVATING BRANDS THROUGH STRATEGIC SOCIAL MEDIA MARKETING',
+      subtitle: <>Social Media <span>Marketing</span></>
     },
     {
       id: 3,
-      bg: 'assets/img/slider/slider-2-1.webp',
-      title: 'BOOST YOUR ONLINE PRESENCE WITH OUR DIGITAL MARKETING CONSULTING SERVICES',
-      subtitle: <>Marketing <span>Consulting</span></>
+      bg: 'assets/img/slider/Coding-website-development-agency-in-Pakistan-hero.webp',
+      title: 'UNLEASHING GROWTH VIA TARGETED GOOGLE ADWORDS CAMPAIGNS',
+      subtitle: <>Google <span>Adwords</span></>
     },
     {
       id: 4,
+      bg: 'assets/img/slider/Coding-website-development-agency-in-Pakistan-hero.webp',
+      title: 'CRAFTING ENGAGING DIGITAL JOURNEYS WITH EXPERT WEBSITE DEVELOPMENT',
+      subtitle: <>Website <span>Development</span></>
+    },
+    {
+      id: 5,
+      bg: 'assets/img/slider/design-agency-in-lahore-Pakistan-hero.webp',
+      title: 'VISUALIZING IDEAS INTO STRIKING REALITY WITH EXPERT GRAPHIC DESIGN',
+      subtitle: <>Graphic <span>Design</span></>
+    },
+    {
+      id: 6,
       bg: 'assets/img/slider/slider-2-1.webp',
-      title: 'MAXIMIZE YOUR AMAZON SALES WITH OUR AMAZON SPECIALIST SERVICES',
+      title: 'AMPLIFYING AMAZON SALES THROUGH OUR SPECIALIZED EXPERTISE',
       subtitle: <>Amazon <span>Specialist</span></>
+    },
+    {
+      id: 7,
+      bg: 'assets/img/slider/slider-2-1.webp',
+      title: 'ENHANCING ONLINE VISIBILITY THROUGH STRATEGIC SEO CONSULTING',
+      subtitle: <>SEO </>
+    },
+    {
+      id: 8,
+      bg: 'assets/img/slider/slider-2-1.webp',
+      title: 'DRIVING SUCCESS WITH EXPERT ACCOUNTING & FINANCE SERVICES',
+      subtitle: <>Accounting & <span>Finanace</span></>
     }
+    
   ]
   return (
     <>
