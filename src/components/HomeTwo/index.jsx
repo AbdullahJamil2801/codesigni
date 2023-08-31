@@ -9,6 +9,7 @@ import FooterTwo from './HomeTwoFooter';
 import HeroSlider from './HeroSlider';
 import PortfolioTwo from './PortfolioTwo';
 import ServicesTwo from './ServicesTwo';
+import ServicesFour from './ServicesFour';
 import TeamTwo from './TeamTwo';
 import TestimonialTwo from './TestimonialTwo';
 
@@ -18,6 +19,7 @@ const HomeTwoMain = () => {
       <Header HeaderTwo={true} />
       <HeroSlider/>
       <ServicesTwo/>
+      <ServicesFour/>
       <AboutTwo/>
       <CounterTwo/>
       <PortfolioTwo/>

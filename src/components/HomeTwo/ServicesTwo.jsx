@@ -10,7 +10,7 @@ const ServicesTwo = () => {
             <div className="col-xl-12">
               <div className="tp-section-title text-center">
                 <span className="tp-sub-title-2 mb-15">What we do the best !</span>
-                <h2 className="tp-title">Our Service</h2>
+                <h2 className="tp-title">Our Services</h2>
               </div>
             </div>
           </div>
@@ -19,6 +19,7 @@ const ServicesTwo = () => {
               servicesData.slice(0, 8).map(item => {
                 return (
                   <div key={item.id} className="col-xl-3 col-lg-3 col-md-6">
+                    <Link href={`/service-details/${item.id}`}>
                     <div className="tpservices tp-mds-services tpservices-border mb-30">
                       <div className="tpservices__icon mb-30">
                         <i className={item.icon}></i>
@@ -39,6 +40,7 @@ const ServicesTwo = () => {
                         </div>
                       </div>
                     </div>
+                    </Link>
                   </div>
                 )
               })
