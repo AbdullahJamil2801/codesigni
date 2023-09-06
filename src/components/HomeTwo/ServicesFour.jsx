@@ -54,7 +54,7 @@ const ServicesFour = () => {
                     },
                   }}
                 >
-                  {servicesData.slice(8, 13).map(item => {
+                  {servicesData.slice(8, 12).map(item => {
                     return (
                       <SwiperSlide key={item.id}>
                         <div className="tpservices tpservices-tpbs">
@@ -67,7 +67,7 @@ const ServicesFour = () => {
                                 <a>{item.title}</a>
                               </Link>
                             </h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun.</p>
+                            <p>{item.description}</p>
                             <div className="tpservices__btn mt-30">
                               <Link href={`/service-details/${item.id}`}>More Details</Link>
                             </div>

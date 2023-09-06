@@ -3,69 +3,73 @@ const servicesData = [
         id: 1,
         icon: "flaticon-coding",
         title: "Ecommerce Marketing",
-        description: "Boost online sales and reach with effective strategies.",
+        description: "Boost online sales and expand your reach with our effective strategies tailored for the ecommerce landscape.",
       },
       {
         id: 2,
         icon: "flaticon-tools",
         title: "Social Media Marketing",
-        description: "Engage audience, expand brand presence with social media.",
+        description: "Engage your audience and expand your brand's presence with our comprehensive social media strategies.",
       },
       {
         id: 3,
         icon: "flaticon-curve",
         title: "Google Adwords",
-        description: "Drive targeted traffic for conversions.",
+        description: "Drive targeted traffic to your site and increase conversions with our expertly managed ad campaigns.",
       },
       {
         id: 4,
         icon: "flaticon-promote",
         title: "Website Development",
-        description: "Create responsive, appealing websites that convert visitors.",
+        description: "Craft responsive, user-friendly websites that not only captivate visitors but also drive conversions.",
       },
       {
         id: 5,
         icon: "flaticon-seo",
         title: "Graphic Design",
-        description: "Communicate brand's essence through captivating design.",
+        description: "Communicate your brand's essence with designs that resonate and captivate.",
       },
       {
         id: 6,
         icon: "flaticon-dashboard",
         title: "Amazon Specialist",
-        description: "Optimize Amazon presence, sales with specialized expertise.",
+        description: "Navigate the Amazon marketplace with ease. We're here to optimize your presence and elevate your sales.",
       },
       {
         id: 7,
         icon: "flaticon-statistics",
         title: "SEO",
-        description: "Enhance website's visibility, reach with strategic SEO.",
+        description: "Enhance your website's visibility on search engines and reach a wider audience with our strategic SEO solutions.",
       },
       {
         id: 8,
         icon: "flaticon-curve",
         title: "Accounting & Finance",
-        description: "Streamline finance, make informed decisions.",
+        description: " Streamline your financial processes and make informed decisions with our expert guidance.",
       },
       {
         id:9,
         icon:"flaticon-money",
-        title:<>Business <span>Investment</span></>
+        title:<>Shopify <span>Stores</span></>,
+        description: " Streamline your financial processes and make informed decisions with our expert guidance.",
       },
       {
         id:10,
         icon:"flaticon-search",
-        title:<>Business <span>Audit</span></>
+        title:<>Amazon <span>Businesses</span></>,
+        description: " Streamline your financial processes and make informed decisions with our expert guidance.",
       },
       {
         id:11,
         icon:"flaticon-select",
-        title:<>HR <span>Consulting</span></>
+        title:<>Dental <span>Offices</span></>,
+        description: " Streamline your financial processes and make informed decisions with our expert guidance.",
       },
       {
         id:12,
         icon:"flaticon-money-1",
-        title:<>Saving <span>Money</span></>
+        title:<>Services <span>Industry</span></>,
+        description: " Streamline your financial processes and make informed decisions with our expert guidance.",
       },
       {
         id:13,

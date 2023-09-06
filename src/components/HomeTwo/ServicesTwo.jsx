@@ -20,7 +20,7 @@ const ServicesTwo = () => {
                 return (
                   <div key={item.id} className="col-xl-3 col-lg-3 col-md-6">
                     <Link href={`/service-details/${item.id}`}>
-                    <div className="tpservices tp-mds-services tpservices-border mb-30">
+                    <div className="tpservices tpservices-tpbs">
                       <div className="tpservices__icon mb-30">
                         <i className={item.icon}></i>
                       </div>
