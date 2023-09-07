@@ -1,7 +1,7 @@
 const servicesData = [
     {
         id: 1,
-        icon: "flaticon-coding",
+        icon: "flaticon-tap",
         title: "Ecommerce Marketing",
         description: "Boost online sales and expand your reach with our effective strategies tailored for the ecommerce landscape.",
       },
@@ -14,7 +14,7 @@ const servicesData = [
       {
         id: 3,
         icon: "flaticon-curve",
-        title: "Google Adwords",
+        title: "Google Adwords (PPC)",
         description: "Drive targeted traffic to your site and increase conversions with our expertly managed ad campaigns.",
       },
       {
